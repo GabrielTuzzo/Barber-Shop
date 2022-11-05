@@ -2410,8 +2410,12 @@ p {
 .py-5 {
     color:#000000;
 }
-
-
+.mr-2 {
+    padding-right: 3px;
+}
+.p-3 {
+    margin-left: 4px;
+}
 
 
 
